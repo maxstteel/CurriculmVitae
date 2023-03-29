@@ -1,0 +1,25 @@
+body{
+    background-color: antiquewhite;
+    font-size: medium;
+}
+h1{
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: blueviolet;
+    margin: 34px;
+}
+
+.estilorojo {
+    color: blue
+}
+
+.estiloazul {
+    color: blue;
+}
+
+.imagen{
+    border-radius: 110px;
+    border: solid 5px;
+    margin: 30px;
+    padding: 20px;
+}

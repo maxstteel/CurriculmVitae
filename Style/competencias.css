@@ -1,0 +1,76 @@
+body{
+    background-color: rgb(255, 255, 255);
+    font-size: medium;
+}
+h1{
+    color: rgb(255, 255, 255);
+    font-family: Arial, "Helvetica", sans-serif;
+    background-color: #A1329D;
+    padding: 10px;
+    margin: 15px;
+}
+
+.titulo{
+color: #ffffff;
+text-decoration: none;
+}
+
+.imagen{
+    float: left;
+    padding: 15px;
+    height: 250px;
+    width: 250px;
+}
+
+.imagensilueta{
+    float: left;
+    padding-top: 3px;
+    height: 20px;
+    width: 25px;
+}
+
+.imagencorreo{
+    float: left;
+    padding-top: 5px;
+    padding-left: 3px;
+    padding-right: 5px;
+    height: 15px;
+    width: 20px;
+}
+
+.info{
+    color: #A1329D;
+    margin: 30px;
+    font-size: 20px;
+}
+
+.contactoh2{
+    color: #A1329D;
+    font-size: 40px;
+    text-decoration: underline;
+}
+
+.infocontacto{
+    color: #A1329D;
+    margin: 30px;
+    font-size: 20px;
+
+}
+
+.competenciasub{
+    color: #ffffff;
+    font-family: "Arial", Helvetica, sans-serif;
+    font-size: 25px;
+    background-color: #A1329D;
+    text-decoration: none;
+    padding: 15px;
+    margin: 15px;
+}
+
+.compes{
+    color: #A1329D;
+    font-family: "Arial", Helvetica, sans-serif;
+    font-size: 17px;
+    border-radius: 20px;
+    padding: 20px;
+}

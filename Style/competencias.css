@@ -57,6 +57,50 @@ text-decoration: none;
 
 }
 
+@media screen and (max-width: 480px) {
+
+    .imagen{
+        padding: 15px;
+        padding-right: 150px;
+        height: 250px;
+        width: 250px;
+    }
+
+.imagensilueta{
+    padding-top: 3px;
+    height: 20px;
+    width: 25px;
+}
+
+.imagencorreo{
+    padding-top: 5px;
+    padding-left: 3px;
+    padding-right: 3px;
+    height: 15px;
+    width: 20px;
+}
+
+.info{
+    color: #A1329D;
+    margin: 15px;
+    font-size: 20px;
+}
+
+.contactoh2{
+    color: #A1329D;
+    padding: 15px;
+    font-size: 40px;
+    text-decoration: underline;
+}
+
+.infocontacto{
+    color: #A1329D;
+    margin: 15px;
+    font-size: 20px;
+
+}
+}
+
 .competenciasub{
     color: #ffffff;
     font-family: "Arial", Helvetica, sans-serif;

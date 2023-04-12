@@ -6,6 +6,9 @@
   padding: 10px;
   margin: 15px;
 }
+.titulo:hover{
+  background-color: #70256e;
+}
 .links {
   text-decoration: none;
   color: white;

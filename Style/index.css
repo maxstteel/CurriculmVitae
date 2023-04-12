@@ -6,6 +6,9 @@
   padding: 10px;
   margin: 15px;
 }
+.titulo:hover{
+  background-color: #70256e;
+}
 .links {
   text-decoration: none;
   color: white;
@@ -59,13 +62,14 @@
   height: 50px;
   width: 250px;
   margin-top: 15px;
-  margin-right: 15px;
+  justify-content: space-around;
   margin-left: 15px;
   border-radius: 20px;
-  justify-content: center;
   align-items: center;
 }
-
+.contenedores:hover{
+  background-color: #70256e;
+}
 
   @media screen and (max-width: 548px) {
     .imagen {
@@ -77,12 +81,4 @@
     .info, .infocontacto {
       margin-left: 10px;
     }
-
-    
-    .contenedores {
-      display: flex;
-      padding: 5px;
-      margin: 15px;
-    }
   }
-  

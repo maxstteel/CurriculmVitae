@@ -71,6 +71,16 @@
   background-color: #70256e;
 }
 
+.derechos {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #a1329d;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin-right: 15px;
+}
+
+
   @media screen and (max-width: 548px) {
     .imagen {
       margin-right: 250px;
@@ -80,5 +90,11 @@
     }
     .info, .infocontacto {
       margin-left: 10px;
+    }
+
+    .derechos {
+      position: static;
+      margin-top: 50px;
+      text-align: right;
     }
   }

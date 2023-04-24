@@ -136,7 +136,7 @@ header {
   margin-right: 15px;
 }
 
-@media screen and (max-width: 548px) {
+@media screen and (max-width: 610px) {
   header {
     flex-direction: column;
     height: 90px;
